@@ -21,3 +21,5 @@ It's my first android app and I thought that calculator would be a great idea. I
 
 ### AI USAGE
 AI(ChatGPT) was used for debugging.
+
+<img width="1039" height="505" alt="Screenshot_20260507_190956" src="https://github.com/user-attachments/assets/8162dd05-2af5-4fdb-81eb-af31ca23aec9" />
