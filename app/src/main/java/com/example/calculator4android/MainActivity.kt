@@ -248,3 +248,4 @@ fun isNumber(input: String): Boolean {
     var dotOccurred = 0
     return input.all { it in integerChars || it == '.' && dotOccurred++ < 1 }
 }
+
