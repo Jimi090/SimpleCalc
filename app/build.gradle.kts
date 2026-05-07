@@ -33,9 +33,21 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+    buildFeatures{
+        viewBinding=true
+    }
 }
 
 dependencies {
+    // Kotlin
+    val activity_version = "1.13.0"
+    implementation("androidx.activity:activity-ktx:$activity_version")
+    implementation("androidx.fragment:fragment-ktx:1.6.2")
+    implementation("com.google.code.gson:gson:2.8.8")
+    implementation("com.google.android.material:material:1.11.0")
+
+    implementation("net.objecthunter:exp4j:0.4.8")
+
     implementation(libs.androidx.activity.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.androidx.constraintlayout)

@@ -2,4 +2,10 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="orange">#fca311</color>
+    <color name="grey">#3f3f3f</color>
+    <color name="blue">#14213d</color>
+    <color name="lightGrey">#c6c6c6</color>
+    <color name="almostBlack">#0f0f0f</color>
+    <!--https://coolors.co/palette/000000-14213d-fca311-e5e5e5-ffffff-->
 </resources>
