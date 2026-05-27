@@ -1,13 +1,19 @@
+
+
+
 # SimpleCalc
 **SimpleCalc is a calculator app for android.**
 
-<img width="477" height="997" alt="Screenshot_20260507_190854" src="https://github.com/user-attachments/assets/1e8a6f99-9925-4719-9f99-1f78b845ddca" />
+https://github.com/user-attachments/assets/b739309d-f4d3-4409-a2f2-48f000c1e66c
+
 
 ### How to use it?
 Go to releases page and download the apk!
 
 ### Why I created this app?
 It's my first android app and I thought that calculator would be a great idea. I learnt a lot making this app e. g. kotlin, xml, and much more...
+
+<img width="477" height="997" alt="Screenshot_20260507_190854" src="https://github.com/user-attachments/assets/1e8a6f99-9925-4719-9f99-1f78b845ddca" />
 
 ### Functions:
 - Basic operations
