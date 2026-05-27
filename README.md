@@ -1,11 +1,8 @@
-
-
-
 # SimpleCalc
 **SimpleCalc is a calculator app for android.**
 
-https://github.com/user-attachments/assets/b739309d-f4d3-4409-a2f2-48f000c1e66c
 
+https://github.com/user-attachments/assets/a3283296-3822-4ac7-99e7-0a8394667bf6
 
 ### How to use it?
 Go to releases page and download the apk!
